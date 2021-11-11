@@ -24,3 +24,12 @@ Physical computing is the process of understanding, planning, and implementing p
 # JavaScript
 <p>JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. JavaScript can update and change both HTML and CSS. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
 </p>
+
+### Examples of web page with JavaScrip
+<ul>
+ <li>(Show or hide) Button with linked with more information</li>
+ <li>Changing colour of boutton when the mouse hovers over it</li>
+ <li>Zoom in or out an image</li>
+ <li>Time set and displaying clock on a website</li>
+ <li>Playing audio and video</li>
+</ul>
