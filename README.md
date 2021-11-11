@@ -25,6 +25,7 @@ Physical computing is the process of understanding, planning, and implementing p
 <p>Arduino designs, manufactures, and supports electronic devices and software, allowing people around the world to easily access advanced technologies that interact with the physical world. Our products are straightforward, simple, and powerful, ready to satisfy users’ needs from students to makers and all the way to professional developers.</p>
 
 
+![IMG_3492](https://user-images.githubusercontent.com/93937062/141378897-5aa5bd87-c139-4968-86c2-3a5253ba5f94.JPG)
 
 
 
