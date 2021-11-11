@@ -39,5 +39,5 @@ Physical computing is the process of understanding, planning, and implementing p
 <h3> 1. The big community and ecosystem</h3>
 <p>JavaScript is the most popular progamme language and many developer participate trying to make the language our own and they share this new language to other and also give some guide to flesher how to use JavaScript. This allow for more people to join, since the different frameworks and modules end up doing the same thing, just in a different ways.</p>
 
-<h3> Self evolving</h3>
+<h3> 2. Self evolving</h3>
 <p> A part from huge community, the language itself is constantly evolving. Although JavaScript itself (the term) is owned by Oracle,the language is meant to follow the specifications of ECMAScript. And these specifications are in fact, controlled indirectly by the community itself, and regulated and organized by the TC39 committee. They review all the different proposals to evolve the language, and work with them until they’re mature enough. Once they are, then it’s up to runtime owners to implement those updates if they want to stay compliant</p>
