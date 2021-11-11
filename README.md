@@ -33,6 +33,13 @@ Physical computing is the process of understanding, planning, and implementing p
 
 
 ![IMG_3506](https://user-images.githubusercontent.com/93937062/141381700-3673afdb-bb95-42c9-ad43-2a70568cca34.JPG)
+<p> Then by using coding programme which called 'Arduino ide'. When I type command value on 'Arduino ide' and upload on my board, LED light would worked belong the code which I wrote.</p>
+<img width="1726" alt="스크린샷 2021-11-10 오후 11 09 28" src="https://user-images.githubusercontent.com/93937062/141383744-3db4b0f7-d64e-424a-b1b0-0db56ecfd245.png">
+
+
+https://user-images.githubusercontent.com/93937062/141384008-fa4c1f04-95db-4d17-a98b-00fe9a71c1dc.mov
+
+
 
 # JavaScript
 <p>JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. JavaScript can update and change both HTML and CSS. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
