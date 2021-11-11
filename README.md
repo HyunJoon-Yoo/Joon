@@ -26,8 +26,13 @@ Physical computing is the process of understanding, planning, and implementing p
 
 
 ![IMG_3492](https://user-images.githubusercontent.com/93937062/141378897-5aa5bd87-c139-4968-86c2-3a5253ba5f94.JPG)
+<p> First of all by using metal connector, LED, switch, resistor and jumper wire I tired to make a light go on LED</p>
+
+![IMG_3493](https://user-images.githubusercontent.com/93937062/141379871-3023390a-0bfd-41ca-b981-d431c1339a49.JPG)
+<p> After I succeed this process, I shited to further challenge whih turn on 3LED light with red and green colour.</p>
 
 
+![IMG_3506](https://user-images.githubusercontent.com/93937062/141381700-3673afdb-bb95-42c9-ad43-2a70568cca34.JPG)
 
 # JavaScript
 <p>JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. JavaScript can update and change both HTML and CSS. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
