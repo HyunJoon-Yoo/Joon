@@ -36,5 +36,5 @@ Physical computing is the process of understanding, planning, and implementing p
 
 # Why JavaScript?
 <p> JavaScript is the most used programming language in developer. And which strentch makes that many programme developers prefer to used JavaScript?</p>
-### 1. The big community and ecosystem
+## 1. The big community and ecosystem
 
