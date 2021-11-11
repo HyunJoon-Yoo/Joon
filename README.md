@@ -11,4 +11,10 @@ Physical computing is the process of understanding, planning, and implementing p
     <li> Reading environmental data from a sensor</li>
     <li> Controlling robotic objects</li>
     <li> Application</li>
+      <ul>
+       <li> creative art</li>
+        <li>Museums</li>
+        <li>Ubiquitous</li>
+        <li>Embedded computing</li>
+      </ul>
   </ul>
