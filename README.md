@@ -73,7 +73,7 @@ In this website we can order or control small character's behavior by using bloc
 <p> A part from huge community, the language itself is constantly evolving. Although JavaScript itself (the term) is owned by Oracle,the language is meant to follow the specifications of ECMAScript. And these specifications are in fact, controlled indirectly by the community itself, and regulated and organized by the TC39 committee. They review all the different proposals to evolve the language, and work with them until they’re mature enough. Once they are, then it’s up to runtime owners to implement those updates if they want to stay compliant</p>
 
 ### Bibliography
-2021. [online] Available at: <https://www.arduino.cc/en/about> [Accessed 12 November 2021].
-Medium. 2021. What’s In The Future For JavaScript?. [online] Available at: <https://blog.bitsrc.io/whats-in-the-future-for-javascript-b58fc736f1c3> [Accessed 12 November 2021].
-Hackreactor.com. 2021. [online] Available at: <https://www.hackreactor.com/blog/what-is-javascript-used-for> [Accessed 12 November 2021].
-Microsoft Research. 2021. Physical Computing - Microsoft Research. [online] Available at: <https://www.microsoft.com/en-us/research/project/physical-computing/> [Accessed 12 November 2021].
+<p> 2021. [online] Available at: <https://www.arduino.cc/en/about> [Accessed 12 November 2021].</p>
+<p> Medium. 2021. What’s In The Future For JavaScript?. [online] Available at: <https://blog.bitsrc.io/whats-in-the-future-for-javascript-b58fc736f1c3> [Accessed 12 November 2021].</p>
+<p> Hackreactor.com. 2021. [online] Available at: <https://www.hackreactor.com/blog/what-is-javascript-used-for> [Accessed 12 November 2021].</p>
+<p> Microsoft Research. 2021. Physical Computing - Microsoft Research. [online] Available at: <https://www.microsoft.com/en-us/research/project/physical-computing/> [Accessed 12 November 2021].</p>
