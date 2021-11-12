@@ -39,6 +39,13 @@ Physical computing is the process of understanding, planning, and implementing p
 
 https://user-images.githubusercontent.com/93937062/141384008-fa4c1f04-95db-4d17-a98b-00fe9a71c1dc.mov
 
+# Further Explore
+
+<p> To explore more about code, I visited website called 'Code.org' : https://studio.code.org/s/artist/lessons/1/levels/1
+In this website we can order or control small character's behavior by using blocks.
+</p>
+<img width="1336" alt="스크린샷 2021-11-10 오후 11 38 01" src="https://user-images.githubusercontent.com/93937062/141398171-10247dcd-4b3e-488f-b200-f49f615d305c.png">
+<img width="1336" alt="스크린샷 2021-11-10 오후 11 40 24" src="https://user-images.githubusercontent.com/93937062/141398176-952a70f6-812b-4b3e-bda2-e15a52f9ef3b.png">
 
 
 # JavaScript
