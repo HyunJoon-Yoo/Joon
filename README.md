@@ -48,6 +48,9 @@ In this website we can order or control small character's behavior by using bloc
 
 <img width="1336" alt="스크린샷 2021-11-10 오후 11 38 01" src="https://user-images.githubusercontent.com/93937062/141398239-b0cb10e9-6dcf-4485-bbd8-9ae8e2c30de7.png">
 
+<p> Also when user add blocks, website also provide shows code to user so they can recognize mechanism of programme language and how it works.</p>
+<img width="663" alt="스크린샷 2021-11-10 오후 11 40 36" src="https://user-images.githubusercontent.com/93937062/141400732-4a02fe1c-926f-4e55-b797-df7e9c5959f3.png">
+
 # JavaScript
 <p>JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. JavaScript can update and change both HTML and CSS. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
 </p>
@@ -68,3 +71,9 @@ In this website we can order or control small character's behavior by using bloc
 
 <h3> 2. Self evolving</h3>
 <p> A part from huge community, the language itself is constantly evolving. Although JavaScript itself (the term) is owned by Oracle,the language is meant to follow the specifications of ECMAScript. And these specifications are in fact, controlled indirectly by the community itself, and regulated and organized by the TC39 committee. They review all the different proposals to evolve the language, and work with them until they’re mature enough. Once they are, then it’s up to runtime owners to implement those updates if they want to stay compliant</p>
+
+### Bibliography
+2021. [online] Available at: <https://www.arduino.cc/en/about> [Accessed 12 November 2021].
+Medium. 2021. What’s In The Future For JavaScript?. [online] Available at: <https://blog.bitsrc.io/whats-in-the-future-for-javascript-b58fc736f1c3> [Accessed 12 November 2021].
+Hackreactor.com. 2021. [online] Available at: <https://www.hackreactor.com/blog/what-is-javascript-used-for> [Accessed 12 November 2021].
+Microsoft Research. 2021. Physical Computing - Microsoft Research. [online] Available at: <https://www.microsoft.com/en-us/research/project/physical-computing/> [Accessed 12 November 2021].
